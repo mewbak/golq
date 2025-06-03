@@ -26,12 +26,6 @@ The implementation is a **bin lattice**: a 2D rectangular array of brick-shaped
 (possibly empty) doubly-linked list of objects. All of these sub-bricks are the
 same size. All bricks are aligned with the global coordinate axes.
 
-
-Usage example
--------------
-
-**TODO**
-
 Benchmarks
 ----------
 
